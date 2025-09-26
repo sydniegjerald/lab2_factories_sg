@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "subject": "Confirm your Appointment",
+    "body": "Please confirm your appointment with Dr. Brown at his clinic at 2pm tomorrow",
+    "ground_truth": "Medical"
+  }
+]
